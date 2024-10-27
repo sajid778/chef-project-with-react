@@ -1,0 +1,94 @@
+
+ [
+      {
+        "recipe_id": 1,
+        "recipe_image": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "recipe_name": "Grilled Chicken with Soy Sauce",
+        "short_description": "A delicious grilled chicken marinated in soy sauce, served with mushrooms and basil leaves.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "400 g mushroom"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_id": 2,
+        "recipe_image": "https://i.ibb.co/6N2dgnZ/2.png",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": [
+          "500 g spaghetti",
+          "400 g ground beef",
+          "2 garlic cloves",
+          "1 onion",
+          "400 g tomato sauce"
+        ],
+        "preparing_time": 45,
+        "calories": 600
+      },
+      {
+        "recipe_id": 3,
+        "recipe_image": "https://i.ibb.co/RzGzcPg/3.png",
+        "recipe_name": "Avocado Salad",
+        "short_description": "A refreshing and healthy salad made with avocado, cucumber, and a light lemon dressing.",
+        "ingredients": [
+          "2 avocados",
+          "1 cucumber",
+          "50 g cherry tomatoes",
+          "1 lemon",
+          "30 ml olive oil"
+        ],
+        "preparing_time": 15,
+        "calories": 250
+      },
+      {
+        "recipe_id": 4,
+        "recipe_image": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "recipe_name": "Chicken Curry",
+        "short_description": "Spicy and flavorful chicken curry with a rich tomato and coconut base.",
+        "ingredients": [
+          "500 g chicken",
+          "200 ml coconut milk",
+          "2 onions",
+          "3 garlic cloves",
+          "1 tbsp curry powder"
+        ],
+        "preparing_time": 40,
+        "calories": 400
+      },
+      {
+        "recipe_id": 5,
+        "recipe_image": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "recipe_name": "Vegetable Stir-fry",
+        "short_description": "A quick and easy stir-fry packed with colorful vegetables.",
+        "ingredients": [
+          "100 g bell peppers",
+          "100 g broccoli",
+          "100 g carrots",
+          "2 garlic cloves",
+          "50 ml soy sauce"
+        ],
+        "preparing_time": 20,
+        "calories": 200
+      },
+      {
+        "recipe_id": 6,
+        "recipe_image": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Soft tacos filled with seasoned beef, fresh veggies, and cheese.",
+        "ingredients": [
+          "500 g ground beef",
+          "6 taco shells",
+          "100 g lettuce",
+          "50 g cheese",
+          "100 g salsa"
+        ],
+        "preparing_time": 25,
+        "calories": 350
+      }
+    ]
+
+  
